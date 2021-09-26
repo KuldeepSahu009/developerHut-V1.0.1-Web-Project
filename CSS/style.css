@@ -1,0 +1,81 @@
+/*
+*  Design and Developed by:
+*  Kuldeep Sahu
+*  sahukuldeep912001@gmail.com
+*  http://skywarrior09.gq
+*/
+
+.headingOne {
+    text-align: center;
+    text-decoration: none;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+
+.headingTwo {
+    text-align: center;
+    text-decoration: none;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-top: 3%;
+    color: black;
+}
+
+.headingOtherSer {
+    text-align: center;
+    text-decoration: none;
+    font-size: xx-large;
+    padding-top: 3%;
+    font-weight: bolder;
+    color: white;
+}
+
+.headingODev {
+    text-align: center;
+    text-decoration: none;
+    font-size: xx-large;
+    padding-top: 3%;
+    font-weight: bolder;
+    color: white;
+}
+
+.HomeSec {
+    background-image: url("../IMG/background_img_2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.SecTwo {
+    background-image: url("../IMG/background_img_6.png");
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.SecHC {
+    background-image: url("../IMG/happyConsumer_img_3.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.SecWL {
+    background-image: url("../IMG/workingStepImg_1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.SecOS {
+    background-image: url("../IMG/otherServicesImg_2.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.SecOD {
+    background-image: url("../IMG/developerImg_1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.whatsApp {
+    margin-left: 3%;
+}
